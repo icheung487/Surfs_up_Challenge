@@ -2,7 +2,7 @@
 
 
 ## Overview: 
-W. Avy would like more information for the months of June and December in Oahu.  He wants to further understand temperature trends throughout the year, specifically June and December.  This would help determine if he the surf and ice cream shop business is worth the investment. 
+W. Avy would like more information for the months of June and December in Oahu.  He wants to further understand temperature trends throughout the year, specifically June and December.  This would help determine if the surf and ice cream shop business is worth the investment. 
 ## Results: 
 * Below are the summart statistics for both June and December and three major points.
 1) Both averages for June and December are about the same.  There's a slight variance of 4 degrees with June being slightly hotter. 
