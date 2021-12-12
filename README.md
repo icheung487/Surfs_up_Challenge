@@ -22,3 +22,14 @@ Overall, investing in the surf and ice cream shop seems promising with warm weat
 
 Two Additional queries that I performed was finding the precipitation for both June and December.  It was helpful to execute these queries to provide additional information to the analysis.  Along with that, I provided a plot chart to show the temperate observations. 
 
+prcp_dec = []
+prcp_dec = session.query(Measurement.prcp).filter(extract('month', Measurement.date) == 12).all()
+Precip_dec = pd.DataFrame(prcp_dec, columns=['December Precipitation'])
+stats_prcp_dec = Precip_dec.describe()
+stats_prcp_dec
+
+prcp_june = []
+prcp_june = session.query(Measurement.prcp).filter(extract('month', Measurement.date) == 6).all()
+Precip_june = pd.DataFrame(prcp_june, columns=['June Precipitation'])
+stats_prcp_june = Precip_june.describe()
+stats_prcp_june
