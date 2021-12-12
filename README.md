@@ -1,5 +1,6 @@
 # Surfs_up_Challenge
-
+##Sources: 
+Images and Files are located [here](https://drive.google.com/drive/folders/1mGeoSqGavPQ2qlzT0F6nF1SvvAoR0MME?usp=sharing)
 
 ## Overview: 
 W. Avy would like more information for the months of June and December in Oahu.  He wants to further understand temperature trends throughout the year, specifically June and December.  This would help determine if the surf and ice cream shop business is worth the investment. 
